@@ -37,7 +37,7 @@ The simulation records and displays important events with timestamps, such as ve
 3. Execute the script:
 
     ```sh
-    python container.py
+    python container2.py
     ```
 
 ## License
