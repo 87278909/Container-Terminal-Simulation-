@@ -32,7 +32,7 @@ The simulation records and displays important events with timestamps, such as ve
 
 ## Running the Simulation
 
-1. Open the script file named `container_terminal_simulation.py`.
+1. Open the script file named `container.py`.
 2. Modify the simulation parameters as needed.
 3. Execute the script:
 
